@@ -1,0 +1,57 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 5
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ASUS\\Desktop\\Amin\\projet gomy code\\projet gomy code\\Nouveau dossier\\bouche.png
+
+newmtl palette.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ASUS\\Desktop\\Amin\\projet gomy code\\projet gomy code\\Nouveau dossier\\chapeau.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ASUS\\Desktop\\Amin\\projet gomy code\\projet gomy code\\Nouveau dossier\\nez.png
+
+newmtl palette.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ASUS\\Desktop\\Amin\\projet gomy code\\projet gomy code\\Nouveau dossier\\yeux.png
+
+newmtl palette.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ASUS\\Desktop\\Amin\\projet gomy code\\projet gomy code\\Nouveau dossier\\oreil.png
